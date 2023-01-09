@@ -3,6 +3,6 @@
 ## Ingredients
 - avocado
 - oil
-- lime
+- lemon
 
 ## Steps
